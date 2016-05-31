@@ -3,7 +3,7 @@ site:
   ports :
    - "80:80"
   volumes:
-   - /home/denisvieira/AndroidStudioProjects/android_php_gcm_realtime_chat_app/gcm_chat:/var/www/html/
+   - /home/denisvieira/AndroidStudioProjects/android-practices/Book-Dominando-Android-2-Edicao-Nelson-Glauber/Cap-14-APIs-do-Google/Google-Cloud-Messaging/gcm-server/hotel_service:/var/www/html/
   links:
    - database
 phpmyadmin:
