@@ -33,6 +33,9 @@
             android:name="android.support.PARENT_ACTIVITY"
             android:value="org.js.denisvieira.sunshine_weather.MainActivity" />
         </activity>
+        <provider
+            android:authorities="org.js.denisvieira.sunshine_weather"
+            android:name=".data.WeatherProvider" />
     </application>
 
 </manifest>
