@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fundamentos Android</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="permlab_callPhone">Ligar diretamente para números de telefone</string>
+    <string name="permdesc_callPhone">Permite que o aplicativo ligue para
+         Números de telefone sem a sua intervenção. As aplicações maliciosas podem
+         Causar chamadas inesperadas em sua conta de telefone. Note que isto não
+         Permitir que o aplicativo ligue para números de emergência.</string>
+
+</resources>
