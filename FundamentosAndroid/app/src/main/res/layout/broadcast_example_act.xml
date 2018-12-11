@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/broad_receiver_xml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROADCAST_RECEIVER_XML"
+        android:layout_margin="20dp"/>
+
+    <Button
+        android:id="@+id/broad_receiver_api"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROADCAST_RECEIVER_API"
+        android:layout_margin="20dp"/>
+
+    <Button
+        android:id="@+id/broad_receiver_start_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROADCAST_RECEIVER_START_ACTIVITY"
+        android:layout_margin="20dp"/>
+
+    <Button
+        android:id="@+id/broad_receiver_outro_projeto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROADCAST_RECEIVER_OUTRO_PROJETO"
+        android:layout_margin="20dp"/>
+
+</LinearLayout>
